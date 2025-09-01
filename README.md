@@ -1,5 +1,5 @@
 
-Bank Management System (C Project)
+Project Bank Management System using C
 
 Overview-
 This is an advanced Bank Management System written in C.
